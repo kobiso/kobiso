@@ -15,11 +15,11 @@
 
 ### 📑 Latest Research
 <!-- PAPER:START -->
-- 📜[**Embedding Expansion: Augmentation in Embedding Space for Deep Metric Learning**][EE arxiv] in CVPR2020, :octocat:[github][EE github]
-- 📜[**Symmetrical Synthesis for Deep Metric Learning**][symm arxiv] in AAAI2020, :octocat:[github][symm github]
-- 📜[**An Effective Pipeline for a Real-world Clothes Retrieval System**][pipeline_arxiv] in CVFAD workshop on CVPR2020
-- 📜[**A Benchmark on Tricks for Large-scale Image Retrieval**][benchmark arxiv] in arxiv2019
-- 📜[**Combination of Multiple Global Descriptors for Image Retrieval**][cgd arxiv] in arxiv2019, :octocat:[github][cgd github]
+- 📜 [**Embedding Expansion: Augmentation in Embedding Space for Deep Metric Learning**][EE arxiv] in CVPR2020, :octocat:[github][EE github]
+- 📜 [**Symmetrical Synthesis for Deep Metric Learning**][symm arxiv] in AAAI2020, :octocat:[github][symm github]
+- 📜 [**An Effective Pipeline for a Real-world Clothes Retrieval System**][pipeline_arxiv] in CVFAD workshop on CVPR2020
+- 📜 [**A Benchmark on Tricks for Large-scale Image Retrieval**][benchmark arxiv] in arxiv2019
+- 📜 [**Combination of Multiple Global Descriptors for Image Retrieval**][cgd arxiv] in arxiv2019, :octocat:[github][cgd github]
 
 
 <!-- PAPER:END -->
@@ -28,9 +28,9 @@
 
 ### 💻 Latest Project
 <!-- Project:START -->
-- :octocat:[**Computer vision leaderboard**][leaderboard]: Leaderboards of famous benchmarks in computer vision
-- :octocat:[**Filter Response Norm in MXNet**][FRN]: MXNet implementation of FRN published in CVPR2020
-- :octocat:[**Get daily arxiv noti**][noti]: Get daily arxiv notification filtered by keywords of your interests
+- :octocat: [**Computer vision leaderboard**][leaderboard]: Leaderboards of famous benchmarks in computer vision
+- :octocat: [**Filter Response Norm in MXNet**][FRN]: MXNet implementation of FRN published in CVPR2020
+- :octocat: [**Get daily arxiv noti**][noti]: Get daily arxiv notification filtered by keywords of your interests
 
 
 <!-- Project:END -->
