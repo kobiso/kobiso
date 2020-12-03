@@ -15,6 +15,7 @@
 
 ### 📑 Latest Research
 <!-- PAPER:START -->
+- 📜 **Proxy Synthesis: Learning with Synthetic Classes for Deep Metric Learning** in AAAI2021
 - 📜 [**Embedding Expansion: Augmentation in Embedding Space for Deep Metric Learning**][EE arxiv] in CVPR2020, :octocat: [github][EE github]
 - 📜 [**Symmetrical Synthesis for Deep Metric Learning**][symm arxiv] in AAAI2020, :octocat: [github][symm github]
 - 📜 [**An Effective Pipeline for a Real-world Clothes Retrieval System**][pipeline_arxiv] in CVFAD workshop on CVPR2020
