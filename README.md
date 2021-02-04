@@ -55,4 +55,4 @@
 [google scholar]: https://scholar.google.co.kr/citations?user=verZ0N4AAAAJ
 [linkedin]: https://www.linkedin.com/in/byungsooko/
 [kaggle]: https://www.kaggle.com/kobiso
-[blog]: https://kobiso.github.io/
+[blog]: https://sites.google.com/view/byungsooko
