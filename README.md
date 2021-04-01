@@ -15,6 +15,7 @@
 
 ### 📑 Latest Research
 <!-- PAPER:START -->
+- 📜 [**Learning with Memory-based Virtual Classes for Deep Metric Learning**][MemVir arxiv] in arxiv2021
 - 📜 [**Proxy Synthesis: Learning with Synthetic Classes for Deep Metric Learning**][PS arxiv] in AAAI2021, :octocat: [github][PS github]
 - 📜 [**Embedding Expansion: Augmentation in Embedding Space for Deep Metric Learning**][EE arxiv] in CVPR2020, :octocat: [github][EE github]
 - 📜 [**Symmetrical Synthesis for Deep Metric Learning**][symm arxiv] in AAAI2020, :octocat: [github][symm github]
@@ -38,6 +39,7 @@
 
 ---
 
+[MemVir arxiv]: https://arxiv.org/abs/2103.16940
 [PS arxiv]: https://arxiv.org/abs/2103.15454
 [PS github]: https://github.com/navervision/proxy-synthesis
 [EE arxiv]: https://arxiv.org/abs/2003.02546
