@@ -16,6 +16,7 @@
 ### 📑 Latest Research
 <!-- PAPER:START -->
 - 📜 [**Learning with Memory-based Virtual Classes for Deep Metric Learning**][MemVir arxiv] in arxiv2021
+- 📜 [**RTIC: Residual Learning for Text and Image Composition using Graph Convolutional Network**][RTIC arxiv] in arxiv2021
 - 📜 [**Proxy Synthesis: Learning with Synthetic Classes for Deep Metric Learning**][PS arxiv] in AAAI2021, :octocat: [github][PS github]
 - 📜 [**Embedding Expansion: Augmentation in Embedding Space for Deep Metric Learning**][EE arxiv] in CVPR2020, :octocat: [github][EE github]
 - 📜 [**Symmetrical Synthesis for Deep Metric Learning**][symm arxiv] in AAAI2020, :octocat: [github][symm github]
@@ -30,6 +31,7 @@
 
 ### 💻 Latest Project
 <!-- Project:START -->
+- :octocat: [**DALL-E reproduction**][dalle]: Working on reproducing OpenAI's DALL-E and sharing pre-trained models
 - :octocat: [**Computer vision leaderboard**][leaderboard]: Leaderboards of famous benchmarks in computer vision
 - :octocat: [**Filter Response Norm in MXNet**][FRN]: MXNet implementation of FRN published in CVPR2020
 - :octocat: [**Get daily arxiv noti**][noti]: Get daily arxiv notification filtered by keywords of your interests
@@ -40,6 +42,7 @@
 ---
 
 [MemVir arxiv]: https://arxiv.org/abs/2103.16940
+[RTIC arxiv]: https://arxiv.org/abs/2104.03015
 [PS arxiv]: https://arxiv.org/abs/2103.15454
 [PS github]: https://github.com/navervision/proxy-synthesis
 [EE arxiv]: https://arxiv.org/abs/2003.02546
@@ -51,6 +54,7 @@
 [cgd arxiv]: https://arxiv.org/abs/1903.10663v3
 [cgd github]: https://github.com/naver/cgd
 
+[dalle]: https://github.com/kobiso/DALLE-reproduction
 [leaderboard]: https://github.com/kobiso/Computer-Vision-Leaderboard
 [FRN]: https://github.com/kobiso/FilterResponseNorm-MXNet
 [noti]: https://github.com/kobiso/get-daily-arxiv-noti
