@@ -15,6 +15,7 @@
 
 ### 📑 Latest Research
 <!-- PAPER:START -->
+- 📜 [**Towards Real-time and Light-weight Line Segment Detection**][MLSD arxiv] in arxiv2021, :octocat: [github][MLSD github]
 - 📜 [**Learning with Memory-based Virtual Classes for Deep Metric Learning**][MemVir arxiv] in arxiv2021
 - 📜 [**RTIC: Residual Learning for Text and Image Composition using Graph Convolutional Network**][RTIC arxiv] in arxiv2021
 - 📜 [**Proxy Synthesis: Learning with Synthetic Classes for Deep Metric Learning**][PS arxiv] in AAAI2021, :octocat: [github][PS github]
@@ -41,6 +42,8 @@
 
 ---
 
+[MLSD arxiv]: https://arxiv.org/abs/2106.00186
+[MLSD github]: https://github.com/navervision/mlsd
 [MemVir arxiv]: https://arxiv.org/abs/2103.16940
 [RTIC arxiv]: https://arxiv.org/abs/2104.03015
 [PS arxiv]: https://arxiv.org/abs/2103.15454
@@ -54,7 +57,7 @@
 [cgd arxiv]: https://arxiv.org/abs/1903.10663v3
 [cgd github]: https://github.com/naver/cgd
 
-[dalle]: https://github.com/kobiso/DALLE-reproduction
+[dalle]: https://github.com/lucidrains/DALLE-pytorch/discussions/131
 [leaderboard]: https://github.com/kobiso/Computer-Vision-Leaderboard
 [FRN]: https://github.com/kobiso/FilterResponseNorm-MXNet
 [noti]: https://github.com/kobiso/get-daily-arxiv-noti
