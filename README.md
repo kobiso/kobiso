@@ -9,7 +9,8 @@
 👔 [linkedin][linkedin] **|** 
 📰 [google scholar][google scholar] **|** 
 🏃 [kaggle][kaggle] **|** 
-🏡 [blog][blog]
+🏡 [blog][blog] **|** 
+🐦 [twitter][twitter]
 
 ---
 
@@ -66,3 +67,4 @@
 [linkedin]: https://www.linkedin.com/in/byungsooko/
 [kaggle]: https://www.kaggle.com/kobiso
 [blog]: https://sites.google.com/view/byungsooko
+[twitter]: https://twitter.com/ByungSooKo1
