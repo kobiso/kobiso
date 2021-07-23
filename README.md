@@ -17,7 +17,7 @@
 ### 📑 Latest Research
 <!-- PAPER:START -->
 - 📜 [**Towards Real-time and Light-weight Line Segment Detection**][MLSD arxiv] in arxiv2021, :octocat: [github][MLSD github]
-- 📜 [**Learning with Memory-based Virtual Classes for Deep Metric Learning**][MemVir arxiv] in ICCV021
+- 📜 [**Learning with Memory-based Virtual Classes for Deep Metric Learning**][MemVir arxiv] in ICCV2021
 - 📜 [**RTIC: Residual Learning for Text and Image Composition using Graph Convolutional Network**][RTIC arxiv] in arxiv2021
 - 📜 [**Proxy Synthesis: Learning with Synthetic Classes for Deep Metric Learning**][PS arxiv] in AAAI2021, :octocat: [github][PS github]
 - 📜 [**Embedding Expansion: Augmentation in Embedding Space for Deep Metric Learning**][EE arxiv] in CVPR2020, :octocat: [github][EE github]
