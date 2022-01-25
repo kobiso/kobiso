@@ -16,6 +16,7 @@
 
 ### 📑 Latest Research
 <!-- PAPER:START -->
+- 📜 [**Self-Distilled Hashing for Deep Image Retrieval**][DHD arxiv] in arxiv2021
 - 📜 [**Towards Real-time and Light-weight Line Segment Detection**][MLSD arxiv] in AAAI2022, :octocat: [github][MLSD github]
 - 📜 [**Learning with Memory-based Virtual Classes for Deep Metric Learning**][MemVir arxiv] in ICCV2021 :octocat: [github][MemVir github]
 - 📜 [**RTIC: Residual Learning for Text and Image Composition using Graph Convolutional Network**][RTIC arxiv] in arxiv2021
@@ -43,6 +44,7 @@
 
 ---
 
+[DHD arxiv]: https://arxiv.org/abs/2112.08816
 [MLSD arxiv]: https://arxiv.org/abs/2106.00186
 [MLSD github]: https://github.com/navervision/mlsd
 [MemVir github]: https://github.com/navervision/MemVir
