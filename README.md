@@ -16,6 +16,7 @@
 
 ### 📑 Latest Research
 <!-- PAPER:START -->
+- 📜 [**Large-scale Bilingual Language-Image Contrastive Learning**][KELIP arxiv] in ICLRW2022, :octocat: [github][KELIP github]
 - 📜 [**Self-Distilled Hashing for Deep Image Retrieval**][DHD arxiv] in arxiv2021
 - 📜 [**Towards Real-time and Light-weight Line Segment Detection**][MLSD arxiv] in AAAI2022, :octocat: [github][MLSD github]
 - 📜 [**Learning with Memory-based Virtual Classes for Deep Metric Learning**][MemVir arxiv] in ICCV2021 :octocat: [github][MemVir github]
@@ -44,6 +45,8 @@
 
 ---
 
+[KELIP arxiv]: https://arxiv.org/abs/2203.14463
+[KELIP github]: https://github.com/navervision/KELIP
 [DHD arxiv]: https://arxiv.org/abs/2112.08816
 [MLSD arxiv]: https://arxiv.org/abs/2106.00186
 [MLSD github]: https://github.com/navervision/mlsd
