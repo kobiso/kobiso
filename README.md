@@ -18,7 +18,7 @@
 <!-- PAPER:START -->
 - 📜 [**Large-scale Bilingual Language-Image Contrastive Learning**][KELIP arxiv] in ICLRW2022, :octocat: [github][KELIP github]
 - 📜 [**Self-Distilled Hashing for Deep Image Retrieval**][DHD arxiv] in arxiv2021
-- 📜 [**Towards Real-time and Light-weight Line Segment Detection**][MLSD arxiv] in AAAI2022, :octocat: [github][MLSD github]
+- 📜 [**Towards Light-weight and Real-time Line Segment Detection**][MLSD arxiv] in AAAI2022, :octocat: [github][MLSD github]
 - 📜 [**Learning with Memory-based Virtual Classes for Deep Metric Learning**][MemVir arxiv] in ICCV2021 :octocat: [github][MemVir github]
 - 📜 [**RTIC: Residual Learning for Text and Image Composition using Graph Convolutional Network**][RTIC arxiv] in arxiv2021
 - 📜 [**Proxy Synthesis: Learning with Synthetic Classes for Deep Metric Learning**][PS arxiv] in AAAI2021, :octocat: [github][PS github]
