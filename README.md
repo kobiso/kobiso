@@ -2,7 +2,8 @@
 
 
 #### I'm a researcher and developer 🐛🐛🐛
-- 🏢 I'm currently working at NAVER & LINE corp.
+- 🏢 I'm currently working at Meta as a machine learning engineer.
+- 🏢 I worked at NAVER as a research engineer.
 
 ### Connect with me:
 
@@ -16,6 +17,8 @@
 
 ### 📑 Latest Research
 <!-- PAPER:START -->
+- 📜 [**VVS: Video-to-Video Retrieval with Irrelevant Frame Suppression**][vvs arxiv] in arxiv2023
+- 📜 [**DialogCC: Large-Scale Multi-Modal Dialogue Dataset**][dialogcc arxiv] in arxiv2022
 - 📜 [**Granularity-aware Adaptation for Image Retrieval over Multiple Tasks**][Grappa arxiv] in ECCV2022
 - 📜 [**Large-scale Bilingual Language-Image Contrastive Learning**][KELIP arxiv] in ICLRW2022, :octocat: [github][KELIP github]
 - 📜 [**Self-Distilled Hashing for Deep Image Retrieval**][DHD arxiv] in ECCV2022, :octocat: [github][DHD github]
@@ -46,6 +49,8 @@
 
 ---
 
+[vvs arxiv]: https://arxiv.org/abs/2303.08906v1
+[dialogcc arxiv]: https://arxiv.org/abs/2212.04119
 [Grappa arxiv]: https://arxiv.org/abs/2210.02254
 [KELIP arxiv]: https://arxiv.org/abs/2203.14463
 [KELIP github]: https://github.com/navervision/KELIP
